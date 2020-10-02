@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Favourites</string>
+    <string name="btnAdd">Add Notes</string>
+    <string name="btnSave">Add</string>
+    <string name="txtDisplay">Display Here..</string>
+    <string name="txtInf">Add Details</string>
+
+</resources>
